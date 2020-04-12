@@ -14,4 +14,6 @@ plt.xlabel("Ages")
 plt.ylabel("Median Salary(USD)")
 plt.title("‘Median Salary(USD) By Age’")
 plt.legend(["All Developers","Python Developers"])
+plt.grid(True)
+
 plt.show()
