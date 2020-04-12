@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4b364cb-1da0-4410-9c43-7ced2f947621" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f4b364cb-1da0-4410-9c43-7ced2f947621" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586695936715</updated>
       <workItem from="1586695939982" duration="2031000" />
-      <workItem from="1586705512989" duration="732000" />
+      <workItem from="1586705512989" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="snippetTwo.py Added">
       <created>1586706245728</created>
